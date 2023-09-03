@@ -1,42 +1,43 @@
 const questions = [
     {
-        'que' : 'Which of the following is a markup language?',
-        'a': 'HTML',
-        'b': 'CSS',
-        'c': 'Javascript',
-        'd': 'PHP',
-        'correct' : 'a'
-    },
-    {
-        'que': 'What does HTML stand for?',
-        'a': 'Hyper Tag Markup Language',
-        'b': 'Hyper Text  Markup Language',
-        'c': 'Hyperlinks Text Markup Language',
-        'd': 'Hyperlinking Text Markup Language',
+        'que' : 'Which is the First Operational Launch Vehicle of India?',
+        'a': 'ASLV',
+        'b': 'PSLV',
+        'c': 'SLV-3',
+        'd': 'GSLV',
         'correct' : 'b'
     },
     {
-        'que' : 'What does CSS stand for?',
-        'a': 'Computing Style Sheet',
-        'b': 'Creative Style System',
-        'c': 'Cascading Style Sheet',
-        'd': 'Creative Styling Sheet',
+        'que': 'Which Spacecraft is Developed by ISRO to study the Sun?',
+        'a': 'Shukrayaan-1',
+        'b': 'Aditya-L1',
+        'c': 'Aditya-L2',
+        'd': 'Mangalyaan-3',
+        'correct' : 'b'
+    },
+    {
+        'que' : 'When was the ISRO logo adopted?',
+        'a': '2002',
+        'b': '2013',
+        'c': '2020',
+        'd': '2023',
+        'correct' : 'a'
+    },
+    {
+        'que' : 'Which Indian state has the highest number of Space Centres?',
+        'a': 'Maharastra',
+        'b': 'Tamil Nodu',
+        'c': 'Gujarat',
+        'd': 'Karnataka',
+        'correct' : 'd'
+    },
+    {
+        'que' : 'Where is the Headquarters of the Indian Space Research Organisation (ISRO)?',
+        'a': 'Delhi',
+        'b': 'Pune',
+        'c': 'Karnataka',
+        'd': 'Kerala',
         'correct' : 'c'
-    },
-    {
-        'que' : 'Which symbol indicates a tag?',
-        'a': 'Angle brackets',
-        'b': 'Curved Brackets',
-        'c': 'Commas',
-        'd': 'Exclamation marks',
-        'correct' : 'a'
-    },
-    {
-        'que' : 'Which of these is genuine tagword?',
-        'a': 'Header',
-        'b': 'Body',
-        'c': 'Image',
-        'correct' : 'b'
     }
 ]
 let index = 0;
